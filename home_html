@@ -1,0 +1,21 @@
+<title>Prova</title>
+
+<p>Nome: Guilherme de Lima Rocha.</p>
+<p>Data: 14/09/2026.</p>
+<p>Matéria: Projeto Integrador.</p>
+<p>Professor: Bruno.</p>
+
+<img src="imagemprova2.jpg" alt="minha imagem"width="200" height="200">
+
+<h1>Seja bem-vindo à prova</h1>
+
+<a routerLink="/gradeaulas" style="display: inline-block; padding: 10px 20px; background-color: #f0f0f0; border: 2px solid #333; border-radius: 8px; text-decoration: none; color: #333;">
+  Ir para a página de grade de aulas
+</a>
+<br>
+<br>
+<a routerLink="/tutorial" style="display: inline-block; padding: 10px 20px; background-color: #f0f0f0; border: 2px solid #333; border-radius: 8px; text-decoration: none; color: #333;">
+  Ir para a página de tutorial angular
+</a>
+<br>
+<img src="imagemprova.jpg" alt="minha imagem"width="225" height="275">
